@@ -31,12 +31,12 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: var(--Grayish-Blue);
+  background-color: var(--Light-Gray);
 }
 
 /* Configuração geral */
 .description {
-  background-color: var(--Light-Gray);
+  background-color: #fff;
 }
 
 .description h1 {
